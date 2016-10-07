@@ -1,0 +1,12 @@
+
+Blocks (points, strikes)
+'r' = red (5,1)
+'b' = blue (8,1)
+'y' = yellow (10,2)
+
+Extras 
+'u' = 1up
+'f' = fire from board
+'s' = shrink board
+'e' = enlarge board
+'m' = 3 balls at the same time
